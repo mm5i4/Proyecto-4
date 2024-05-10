@@ -1,11 +1,10 @@
 $(document).ready(
     function(){
           $("#Login").on("click",function(){
-            alert("hola")
+            let name = $("#usuario").val()
+            alert(name)
           })
-          $("#Borrar").on("click",funtion(
-            
-          ))
+        
 
     }
 )
