@@ -1,0 +1,33 @@
+header{
+display: flex;
+margin-inline: 3px;
+}
+
+header h1{
+font-size: xx-large;
+padding: 3%;
+border: 3px solid black;
+width: 70%;
+text-align: center;
+}
+
+.formulario{
+    border: 3px solid black;
+    border-radius: 15px;
+    font-size: large;
+    margin-top: 5%;
+    padding: 4%;
+    width: fit-content;
+}
+
+footer{
+    padding: 3ex;
+    margin-top: 7%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+body{
+    overflow-y: hidden;
+}
+
